@@ -1,1 +1,4 @@
 # kerja
+-asiauhda
+-asgsad
+-sasas
